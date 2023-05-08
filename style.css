@@ -1,0 +1,13 @@
+.heading ul{
+    display:inline;
+}
+.heading li{
+    display: inline;
+}
+.heading{
+    background-color:black;
+    color:white;
+}
+#map{
+    text-align: left;
+}
